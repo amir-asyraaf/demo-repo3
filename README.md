@@ -20,3 +20,11 @@ remote URL -> git@github.com:<username>/<repo_name.git>
 2. Step 1 seems to not work. Thus, tried again using Step 3.
 
 3. remote URL -> https://github.com/<username>/<repo_name>.git
+
+4. Step 1 - 3 does not work.
+
+5. you need to create a new repo on your github server.
+
+6. only then can you git remote add.
+
+7. then, you can proceed to perform your git workflow.
